@@ -4,9 +4,8 @@
 - 👀 so at the moment there is not much to see here 
 - 🫶🏻 feel free to come back later and see what has changed
 
-<!--
 <img src="logo.svg" alt="logo" width="1000">
--->
+
 
 <!--
 **sebsepp/sebsepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
