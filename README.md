@@ -2,7 +2,7 @@
 
 I'm Sebastian, a Research Associate and Doctoral Student at the Department of Exercise Physiology and Sports Therapy at Justus Liebig University Gießen, Germany. 🌱 I recently discovered my passion for data science and visualization and am eager to enhance my technical expertise and research skills. 👀 Feel free to explore my public repositories, and don't hesitate to reach out if you have any questions or suggestions. 🫶🏻
 
-My coworker <a href="https://github.com/simonkluegel" target="_blank">@simonkluegel</a>, and I recently started a dedicated coding lab 💻⬇️
+My coworker [@simonkluegel](https://github.com/simonkluegel), and I recently started a dedicated coding lab 💻⬇️
 <img src="logo.svg" alt="logo" width="1000">
 
 
