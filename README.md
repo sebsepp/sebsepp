@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🌱 i’m currently learning how to use git and github
-- 👀 so at the moment there is not much to see here 
-- 🫶🏻 feel free to come back later and see what has changed
+I'm Sebastian, a Research Associate and Doctoral Student at the Department of Exercise Physiology and Sports Therapy at Justus Liebig University Gießen, Germany. 🌱 I recently discovered my passion for data science and visualizatino and am eager to enhance my technical expertise and research skills. 👀 Feel free to explore my public repositories, and don't hesitate to reach out if you have any questions or suggestions. 🫶🏻
 
+My coworker <a href="https://github.com/simonkluegel" target="_blank">@simonkluegel</a>, and I recently started a dedicated coding lab 💻⬇️
 <img src="logo.svg" alt="logo" width="1000">
 
 
